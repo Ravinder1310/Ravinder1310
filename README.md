@@ -23,7 +23,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ravinder-kumar-958a55233/"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="rishav-neogi" height="32" width="32" /></a>
-<a href = 'https://github.com/Ravinder1310'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
+<a href = 'https://github.com/Ravinder1310'> <img width = '32px' align= 'center' src="[https://img.icons8.com/ios-glyphs/344/github.png](https://tse2.mm.bing.net/th?id=OIP.yWNibBRepmC6fO7mZnicCgHaHa&pid=Api&P=0)"/></a> 
 
 </p>
 <img height="350px" width="50%" align="right" alt="Github" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47asx2dkn919in2u9b1xhp4k76bry675iuvdsw944w&rid=giphy.gif&ct=g" />
