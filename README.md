@@ -57,7 +57,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ravinder1310)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ravinder1310)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravinder1310)
   
   ## :trophy: Git profile Trophies
 
