@@ -57,6 +57,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ravinder1310)
   <br/>
+ <br/>
   ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=Ravinder1310&layout=compact&theme=algolia" alt="Ravinder1310" /> </p>
